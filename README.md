@@ -97,6 +97,6 @@ The following project artifacts are available in this repository:
 
 *   **Project Plan & Reports:** Detailed documentation covering scope, schedule, budget, and risk management.
 *   **MS Project File (.mpp):** Contains the full WBS, Gantt charts, Network Diagrams, and resource allocations.
-*   **Charts & Diagrams:** Burndown charts, Resource Usage graphs, and Network Diagrams.
+*   **Charts & Diagrams:** Burndown charts,Gantt chart, and Network Diagram.
 
 *(Note: Please refer to the specific files in the repository for detailed data).*
